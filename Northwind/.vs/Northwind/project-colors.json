@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bebf31c7-49d8-49cb-8328-279e5f52f059": {
+      "ProjectGuid": "bebf31c7-49d8-49cb-8328-279e5f52f059",
+      "DisplayName": "Northwind.BusinessLogic",
+      "ColorIndex": 0
+    },
+    "23098cd2-91b9-4275-b523-fc13bee8d323": {
+      "ProjectGuid": "23098cd2-91b9-4275-b523-fc13bee8d323",
+      "DisplayName": "Northwind.DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "fe9093fd-f48c-4a8a-929f-339d1d6ecfd9": {
+      "ProjectGuid": "fe9093fd-f48c-4a8a-929f-339d1d6ecfd9",
+      "DisplayName": "Northwind.Entity",
+      "ColorIndex": 2
+    },
+    "1e49d204-367e-43d4-8b67-0aaa6faf382b": {
+      "ProjectGuid": "1e49d204-367e-43d4-8b67-0aaa6faf382b",
+      "DisplayName": "Northwind.Entity",
+      "ColorIndex": 3
+    },
+    "8244b6ee-d459-44af-ae41-c3a058d2c187": {
+      "ProjectGuid": "8244b6ee-d459-44af-ae41-c3a058d2c187",
+      "DisplayName": "Northwind.DataAccessLayer",
+      "ColorIndex": 4
+    },
+    "c5e6e49e-7506-4940-9a67-905ee4a51687": {
+      "ProjectGuid": "c5e6e49e-7506-4940-9a67-905ee4a51687",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 5
+    },
+    "e198caae-c672-47c4-9b2d-446adf2c92a0": {
+      "ProjectGuid": "e198caae-c672-47c4-9b2d-446adf2c92a0",
+      "DisplayName": "Northwind.Interface",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}
